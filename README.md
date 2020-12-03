@@ -1,5 +1,6 @@
 # reactjs-course-all-projects
 
+this is description of each react app above in sequence as they are uploaded.
 
 1. Dynamic Greeting App:
 
