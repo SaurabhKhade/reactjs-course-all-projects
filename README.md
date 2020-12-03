@@ -27,3 +27,9 @@
    it is just a updated version of previous project which is Netflix Serieses. In this i have used flat arrow functions wherever i can. and also improved the style (css) and yes, now description of each series is real and also button redirect you to appropriate series on netflix.
    
    But the main reason to upload this as another project is, now i have learned how to use the loops in react while using JSX. so which i have hardcoded in previous project, is now rendered using loop.
+   
+4. Slot Machine:
+ 
+   my third 4th project (basically its 3rd but i am considering both Netflix Serieses as separate) in reactjs learning journey.
+
+   it is just a hardcoded slot machine. It is hardcoded because i have created it only to practice if-else statements in react. And in next projects i will update it to fully functional slot machine :)

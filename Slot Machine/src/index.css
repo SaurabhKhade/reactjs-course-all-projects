@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	width: 100vw;
+	height: 100vh;
+	background-color: rgb(251,255,216);
+}
+
+.heading{
+	font-size: 1.6rem;
+	padding: 20px 10px;
+	text-align: center;
+	background-color: rgb(247,255,178);
+	border-bottom: 2px solid rgb(48,48,48);
+}
+
+.machine{
+	max-width: 650px;
+	background-color: rgb(248,255,184);
+	border: 2px solid rgb(48,48,48);
+	padding: 10px;
+	margin: 25px auto;
+}
+
+.strip{
+	margin: 5px;
+	border: 2px solid rgb(48,48,48);
+	padding: 10px;
+	background-color: rgb(227,234,167);
+}
+
+.emoji-strip{
+	display: flex;
+	justify-content: space-evenly;
+	padding: 5px;
+	font-size: 2.5rem;
+}
+
+.result,.slot-number{
+	padding: 10px 0;
+	text-align: center;
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+
+.emojis{
+	padding: 10px 15px;
+}
