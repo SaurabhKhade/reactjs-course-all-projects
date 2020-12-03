@@ -20,4 +20,10 @@
 
    my second project in reactjs learning journey
    
-   a simple app which shows six netflix series and there posters. This project is just to learn about react components. And only thing i want to mention about it is the button below each card just redirect you to https://www.google.com/ and not to the actual series. 
+   a simple app which shows six netflix series and there posters. This project is just to learn about react components. And only thing i want to mention about it is the button below each card just redirect you to https://www.google.com/ and not to the actual series.
+   
+3. Netflix Serieses Updated:
+
+   it is just a updated version of previous project which is Netflix Serieses. In this i have used flat arrow functions wherever i can. and also improved the style (css) and yes, now description of each series is real and also button redirect you to appropriate series on netflix.
+   
+   But the main reason to upload this as another project is, now i have learned how to use the loops in react while using JSX. so which i have hardcoded in previous project, is now rendered using loop.
