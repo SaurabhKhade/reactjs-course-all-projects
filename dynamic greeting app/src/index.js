@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-let time=new Date(20,13,12,20).getHours();
+let time=new Date().getHours();
 
 let greetColor={};
 let greet='';
