@@ -15,3 +15,9 @@
    
    => 'Good Night' in between 12AM to 3AM in color rgb(255,170,236))
    
+
+2. Netflix Series:
+
+   my second project in reactjs learning journey
+   
+   a simple app which shows six netflix series and there posters. This project is just to learn about react components. And only thing i want to mention about it is the button below each card just redirect you to https://www.google.com/ and not to the actual series. 
