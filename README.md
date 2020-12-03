@@ -34,3 +34,9 @@ this is description of each react app above in sequence as they are uploaded.
    my third 4th project (basically its 3rd but i am considering both Netflix Serieses as separate) in reactjs learning journey.
 
    it is just a hardcoded slot machine. It is hardcoded because i have created it only to practice if-else statements in react. And in next projects i will update it to fully functional slot machine :)
+
+5. Get Current Time:
+
+   its my 5th project (mini mini project).
+ 
+   This is just a very very simple react app which shows current time of device when clicked on Get Time named button. Main reason behind this app is its introduction to hooks in reactjs. I have used hooks concept to show the current time when clicked on Get Time button.
