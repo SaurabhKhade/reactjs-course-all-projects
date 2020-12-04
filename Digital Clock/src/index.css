@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.page{
+	background-color: rgb(0,0,0);
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.box{
+	padding: 25px;
+	background-color: rgb(28,28,28);
+	border: 2px solid white;
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	align-items: center;
+}
+
+.timebox{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.time{
+	font-size: 2rem;
+	padding: 10px;
+}
