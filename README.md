@@ -39,10 +39,16 @@ this is description of each react app above in sequence as they are uploaded.
 
    its my 5th project (mini mini project).
  
-   This is just a very very simple react app which shows current time of device when clicked on Get Time named button. Main reason behind this app is its introduction to hooks in reactjs. I have used hooks concept to show the current time when clicked on Get Time button.
+   This is just a very very simple react app which shows current time of device when clicked on Get Time named button. Main reason behind this app is it is introduction to hooks (useState hook) in reactjs. I have used useState hook to show the current time when clicked on Get Time button.
    
 6. Digital Clock:
  
    its 6th project in react js learning path
 
    This is a digital clock in react which shows the current time of device. difference between this project and previous one is this updates time automatically every second and similarity is it is also a project for practice of reactjs hooks. 
+   
+7. Reactjs Events:
+
+   its my seventh project in reactsjs learning path.
+   
+   This is React app for introduction of how to handle events related to react components. Basically in this app 2 events which are onMouseOver and onMouseLeave are handled. in app when we drag mouse inside inner box, the background color and text changes and again when we drag mouse outside that box, it changes again which is handled by useState hook.
