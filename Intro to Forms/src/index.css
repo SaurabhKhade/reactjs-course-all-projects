@@ -1,0 +1,54 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+*:focus{
+   outline: none;
+}
+
+.page{
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(255,186,239);
+}
+
+.box{
+   padding: 20px;
+   border: 6px outset rgb(31,131,255);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-around;
+}
+
+h1{
+   margin: 10px 5px;
+   text-align: center;
+}
+
+input{
+   margin: 10px 5px;
+   text-align: center;
+   padding: 5px;
+   font-weight: bold;
+   font-size: 1.2rem;
+   border: 5px inset rgb(255,167,3);
+}
+
+button{
+   padding: 10px 15px;
+   font-weight: bold;
+   font-size: 1.2rem;
+   background-color: transparent;
+   color: black;
+   border: 5px outset rgb(255,167,3);
+}
+
+button:active{
+   border-style: inset;
+}

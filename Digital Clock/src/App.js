@@ -1,6 +1,8 @@
-import React , {useState} from 'react';
+import React from 'react';
 import Clock from './Clock';
 
+ const {useState}=React;
+ 
 const App=()=>{
 	let [time,slt]=new Date().toLocaleTimeString().split(" ");
 	let [hh,mm,ss]=time.split(":");

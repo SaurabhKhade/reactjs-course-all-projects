@@ -17,8 +17,8 @@ SystemJS.config({
   map: {
     'plugin-babel': 'systemjs-plugin-babel@latest/plugin-babel.js',
     'systemjs-babel-build': 'systemjs-plugin-babel@latest/systemjs-babel-browser.js',
-    'react': 'react@16.4.2/umd/react.production.min.js',
-    'react-dom': 'react-dom@16.4.2/umd/react-dom.production.min.js',
+    'react': 'react@17/umd/react.development.js',
+    'react-dom': 'react-dom@17/umd/react-dom.development.js',
     'css': 'systemjs-plugin-css@latest/css.js'
   },
   transpiler: 'plugin-babel'

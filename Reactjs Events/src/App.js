@@ -1,6 +1,8 @@
-import React,{useState} from 'react';
+import React from 'react';
 import Box from './Box';
 
+ const {useState}=React;
+ 
 const App=()=>{
    
    let [text,changeText]=useState("Hello Friend!");
