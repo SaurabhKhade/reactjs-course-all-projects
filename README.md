@@ -66,3 +66,9 @@ each project is developed on developement server created with create-react-app. 
    its my 9th project in reactjs learning path.
    
    This is a next step from Intro to Forms. Intro to forms is a very simple app with only one input field and also it is handled in very raw way. But this app which is MultiField Form is app with total 4 input fields. and this field are handled by using objects with useState Hook. You have to enter your full name, email address, phone number and one message for me. and as you press enter, this information eill be rendered below the form.
+
+10. MultiField Form Final:
+
+   actually its not a project, its a improvement, it is to show how i was doing task by writing excess of lines and now i can do same task in just 2 or 3 lines.
+   
+   This is exactly same app as MultiField Form but only thing is dozens of lines of code are wrapped up in only 2 line. First trick is by just updating value of oldData object (which is just a callback object of function returned by useState) and then spreading it in new object and other is just spreading oldData object in new object and then updating previous value with square bracket syntax inside object. I know i have confused you, but the conclusion is i have reduced dozens of lines of code to just 2 lines by using spread (...) operator.
