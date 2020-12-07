@@ -1,0 +1,98 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   width: 100vw;
+}
+
+*:focus{
+   outline: none;
+}
+
+.page{
+   width: 100%;
+   min-height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(45,180,255);
+}
+
+.mobile{
+    min-width: 360px;
+    margin: auto;
+    min-height: 760px;
+    background-color: rgb(243,243,243);
+    border-radius: 10px;
+}
+
+.addItem{
+    display: flex;
+    justify-content: center;
+}
+
+.items{
+    margin: 0 15px;
+    margin-top: 25px;
+}
+
+hr{
+    margin-top: 25px;
+    border: 2px solid transparent;
+}
+
+ol{
+    list-style: none;
+    font-size: 25px;
+}
+
+li{
+    margin: 10px 0;
+}
+
+h1{
+   margin: 15px 0;
+   text-align: center;
+   padding: 10px;
+   background-color: rgb(255,179,237);
+}
+
+input{
+    width: 200px;
+   margin: 5px 30px;
+   text-align: center;
+   padding: 5px;
+   font-weight: bold;
+   font-size: 1rem;
+   border: none;
+   background-color: rgb(243,243,243);
+   border-bottom: 2px solid rgb(35,35,35);
+}
+
+button{
+   padding: 0 13px;
+   border-radius: 50%;
+   font-weight: bold;
+   font-size: 40px;
+   background-color: rgb(255,179,237);
+   color: rgb(243,243,243);
+   border: none;
+   box-shadow: 2px 2px 4px rgb(204,204,204);
+}
+
+button:active,button:hover{
+   background-color: rgb(102,204,58);
+}
+
+.btn-small{
+   padding: 0 5px;
+   font-size: 25px;
+   margin-right: 15px;
+}
+
+.btn-small:active,.btn-small:hover{
+   background-color: rgb(227,97,97);
+}

@@ -72,3 +72,9 @@ each project is developed on developement server created with create-react-app. 
     actually its not a project, its a improvement, it is to show how i was doing task by writing excess of lines and now i can do same task in just 2 or 3 lines.
    
     This is exactly same app as MultiField Form but only thing is dozens of lines of code are wrapped up in only 2 line. First trick is by just updating value of oldData object (which is just a callback object of function returned by useState) and then spreading it in new object and other is just spreading oldData object in new object and then updating previous value with square bracket syntax inside object. I know i have confused you, but the conclusion is i have reduced dozens of lines of code to just 2 lines by using spread (...) operator.
+
+11. ToDo List:
+
+    First time i can say that i have created a mega project. because this is best react app i have created ever.
+    
+    This is ToDo list created in reactjs and it is non responsive, developed only for mobile. we have to add the item in input field, and as clicked on + button, the item will be get added on the top of list. items will be from new to old sequence. if we press on x button related to that item, only that particular item will be get removed from list. its the best react app till now in my journey of learning reactjs.
