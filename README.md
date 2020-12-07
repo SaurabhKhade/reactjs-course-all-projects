@@ -78,3 +78,9 @@ each project is developed on developement server created with create-react-app. 
     First time i can say that i have created a mega project. because this is best react app i have created ever.
     
     This is ToDo list created in reactjs and it is non responsive, developed only for mobile. we have to add the item in input field, and as clicked on + button, the item will be get added on the top of list. items will be from new to old sequence. if we press on x button related to that item, only that particular item will be get removed from list. its the best react app till now in my journey of learning reactjs.
+    
+12. Counter:
+
+    my 11th project (mini project) in reactjs, which is a simple counter created for practice of useState hook.
+    
+    This is a counter app, in which we can increament or decreament the given number with help of incr (increament button) and dcr (decreament button). we can't decrease counter below zero, it will alert you if you tried to decrease it below zero.
